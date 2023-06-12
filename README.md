@@ -1,3 +1,12 @@
-run docker-compose from Docker directory; 
+# Test
+## Company details
 
-local web-page link: http://localhost:8080/testWeb/
+## Installation
+
+```sh
+cd test/Docker
+docker-compose up
+```
+Starting time around 30 sec for modules to be installed
+
+Web-page: [http://localhost:8080/testWeb/][PlDb] 

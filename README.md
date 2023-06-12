@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-cd test/Docker
+cd .\hotelTest\
 docker-compose up
 ```
 Starting time around 30 sec for modules to be installed
